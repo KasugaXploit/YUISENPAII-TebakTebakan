@@ -22,8 +22,7 @@ Kamu bisa coba jawab dan bot akan kasih feedback jawaban benar atau salah secara
    pkg install python git -y
 
 3.  Clone repository bot
-   git clone https://github.com/KasugaXploit/YUISENPAII-TebakTebakan
-.git
+   git clone https://github.com/KasugaXploit/YUISENPAII-TebakTebakan.git
    cd YUISENPAII-TelegramBots/bot_tebak_tebakan
 
 4.  Install dependencies
